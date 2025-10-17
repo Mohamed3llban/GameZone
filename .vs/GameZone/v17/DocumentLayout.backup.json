@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Full Stack\\ASP.Net Core Study\\Game Zone Project\\GameZone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEEDAF1-835F-46F0-994C-A0D9C8E07F51}|GameZone\\GameZone.csproj|d:\\full stack\\asp.net core study\\game zone project\\gamezone\\gamezone\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECEEDAF1-835F-46F0-994C-A0D9C8E07F51}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEEDAF1-835F-46F0-994C-A0D9C8E07F51}|GameZone\\GameZone.csproj|d:\\full stack\\asp.net core study\\game zone project\\gamezone\\gamezone\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEEDAF1-835F-46F0-994C-A0D9C8E07F51}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEEDAF1-835F-46F0-994C-A0D9C8E07F51}|GameZone\\GameZone.csproj|d:\\full stack\\asp.net core study\\game zone project\\gamezone\\gamezone\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEEDAF1-835F-46F0-994C-A0D9C8E07F51}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEEDAF1-835F-46F0-994C-A0D9C8E07F51}|GameZone\\GameZone.csproj|d:\\full stack\\asp.net core study\\game zone project\\gamezone\\gamezone\\services\\devicesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEEDAF1-835F-46F0-994C-A0D9C8E07F51}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\services\\devicesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEEDAF1-835F-46F0-994C-A0D9C8E07F51}|GameZone\\GameZone.csproj|d:\\full stack\\asp.net core study\\game zone project\\gamezone\\gamezone\\wwwroot\\js\\newfile.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ECEEDAF1-835F-46F0-994C-A0D9C8E07F51}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\wwwroot\\js\\newfile.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEEDAF1-835F-46F0-994C-A0D9C8E07F51}|GameZone\\GameZone.csproj|d:\\full stack\\asp.net core study\\game zone project\\gamezone\\gamezone\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ECEEDAF1-835F-46F0-994C-A0D9C8E07F51}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEEDAF1-835F-46F0-994C-A0D9C8E07F51}|GameZone\\GameZone.csproj|d:\\full stack\\asp.net core study\\game zone project\\gamezone\\gamezone\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ECEEDAF1-835F-46F0-994C-A0D9C8E07F51}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEEDAF1-835F-46F0-994C-A0D9C8E07F51}|GameZone\\GameZone.csproj|d:\\full stack\\asp.net core study\\game zone project\\gamezone\\gamezone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ECEEDAF1-835F-46F0-994C-A0D9C8E07F51}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEEDAF1-835F-46F0-994C-A0D9C8E07F51}|GameZone\\GameZone.csproj|d:\\full stack\\asp.net core study\\game zone project\\gamezone\\gamezone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEEDAF1-835F-46F0-994C-A0D9C8E07F51}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Full Stack\\ASP.Net Core Study\\Game Zone Project\\GameZone\\GameZone\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GameZone\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Full Stack\\ASP.Net Core Study\\Game Zone Project\\GameZone\\GameZone\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GameZone\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T14:57:10.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Full Stack\\ASP.Net Core Study\\Game Zone Project\\GameZone\\GameZone\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "GameZone\\Models\\Category.cs",
+              "ToolTip": "D:\\Full Stack\\ASP.Net Core Study\\Game Zone Project\\GameZone\\GameZone\\Models\\Category.cs",
+              "RelativeToolTip": "GameZone\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:52:45.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Device.cs",
+              "DocumentMoniker": "D:\\Full Stack\\ASP.Net Core Study\\Game Zone Project\\GameZone\\GameZone\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "GameZone\\Models\\Device.cs",
+              "ToolTip": "D:\\Full Stack\\ASP.Net Core Study\\Game Zone Project\\GameZone\\GameZone\\Models\\Device.cs",
+              "RelativeToolTip": "GameZone\\Models\\Device.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:52:37.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DevicesService.cs",
+              "DocumentMoniker": "D:\\Full Stack\\ASP.Net Core Study\\Game Zone Project\\GameZone\\GameZone\\Services\\DevicesService.cs",
+              "RelativeDocumentMoniker": "GameZone\\Services\\DevicesService.cs",
+              "ToolTip": "D:\\Full Stack\\ASP.Net Core Study\\Game Zone Project\\GameZone\\GameZone\\Services\\DevicesService.cs",
+              "RelativeToolTip": "GameZone\\Services\\DevicesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:52:27.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "newFile.js",
+              "DocumentMoniker": "D:\\Full Stack\\ASP.Net Core Study\\Game Zone Project\\GameZone\\GameZone\\wwwroot\\js\\newFile.js",
+              "RelativeDocumentMoniker": "GameZone\\wwwroot\\js\\newFile.js",
+              "ToolTip": "D:\\Full Stack\\ASP.Net Core Study\\Game Zone Project\\GameZone\\GameZone\\wwwroot\\js\\newFile.js",
+              "RelativeToolTip": "GameZone\\wwwroot\\js\\newFile.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-26T14:49:41.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Full Stack\\ASP.Net Core Study\\Game Zone Project\\GameZone\\GameZone\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "GameZone\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Full Stack\\ASP.Net Core Study\\Game Zone Project\\GameZone\\GameZone\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "GameZone\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-26T14:49:35.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Full Stack\\ASP.Net Core Study\\Game Zone Project\\GameZone\\GameZone\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "GameZone\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Full Stack\\ASP.Net Core Study\\Game Zone Project\\GameZone\\GameZone\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "GameZone\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-26T14:46:44.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Full Stack\\ASP.Net Core Study\\Game Zone Project\\GameZone\\GameZone\\appsettings.json",
+              "RelativeDocumentMoniker": "GameZone\\appsettings.json",
+              "ToolTip": "D:\\Full Stack\\ASP.Net Core Study\\Game Zone Project\\GameZone\\GameZone\\appsettings.json",
+              "RelativeToolTip": "GameZone\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T14:46:26.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Full Stack\\ASP.Net Core Study\\Game Zone Project\\GameZone\\GameZone\\Program.cs",
+              "RelativeDocumentMoniker": "GameZone\\Program.cs",
+              "ToolTip": "D:\\Full Stack\\ASP.Net Core Study\\Game Zone Project\\GameZone\\GameZone\\Program.cs",
+              "RelativeToolTip": "GameZone\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:44:43.556Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

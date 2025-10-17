@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GameZone",
+    "\\GameZone\\Controllers",
+    "\\GameZone\\ViewModels",
+    "\\GameZone\\Views",
+    "\\GameZone\\Views\\Games",
+    "\\GameZone\\Views\\Home",
+    "\\GameZone\\Views\\Shared"
+  ],
+  "SelectedNode": "\\GameZone.sln",
+  "PreviewInSolutionExplorer": false
+}
